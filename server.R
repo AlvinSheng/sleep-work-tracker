@@ -1,5 +1,8 @@
-library(shiny)
-library(shinydashboard)
-library(tidyverse)
+require(here)
+source(here("R/pkg_list.R"))
 
-server <- function(input, output) { }
+server <- function(input, output) {
+  
+  
+  
+}

@@ -14,7 +14,7 @@ date sleep_start sleep_end sleep_quality ease_of_working misc_data
 12/05/23 4:30am 10:10am 4 3 "unintendedtrans:30;unintendedwake:otheralarm"
 12/05/23 11:50am 1:35pm 4 3 "strategy:supplementarynap;unintendedtrans:25,mx;event:rollout of socialism 101 educational"
 12/05/23 9:35pm 10:05pm 3 1,2 "exercise:10:35pm 25 run;workspot:computerlab;unintended:80 videogame;secondwind:4:00am"
-12/06/23 11:15am 4:30pm 5 3  "exercise:7:05pm 40 weightlifting"
+12/06/23 11:15am 4:30pm 5 3 "exercise:7:05pm 40 weightlifting"
 12/06/23 9:35pm 10:00pm 2 2,3 "secondwind:socialism;workspot:computerlab;unintended:60 essaywriting"
 12/07/23 7:15am 2:15pm 5 3 ""
 12/07/23 4:00pm 7:00pm 5 2 "exercise:9:00pm 25 hiit"
@@ -37,7 +37,7 @@ date sleep_start sleep_end sleep_quality ease_of_working misc_data
 12/13/23 8:05pm 10:05pm 2,3 3 "trans:mx;antisleep:much blacktea,greentea;secondwind:interesting,gum;secondwind:60 essaywriting,myquotes,sparklingwater,amv[strategy of doing an amv pick-me-up in the middle of the pomodoro, when tired and depressed]"
 12/14/23 11:15am 3:05pm 4 3,4 "secondwind:myquotes"
 12/14/23 10:30pm 12:40am 3 3 "secondwind:40 essaywriting"
-12/15/23 7:30am 12:20pm 4 Nan "unintendedwake:3 snooze;secondwind:sentimentalphrases;event:JSM student paper competition;exercise:12:20am 20 run;secondwind/strategy: transfer from the notebook"
+12/15/23 7:30am 12:20pm 4 4,2 "unintendedwake:3 snooze;secondwind:sentimentalphrases;event:JSM student paper competition;exercise:12:20am 20 run;secondwind/strategy: transfer from the notebook"
 12/16/23 5:10am 1:55pm 4 0 "exercise:7:00pm 25 hiit"
 12/17/23 2:30am 12:55pm 4 0 ""
 12/17/23 8:25pm 8:40pm 2 2 ""
@@ -62,4 +62,4 @@ date sleep_start sleep_end sleep_quality ease_of_working misc_data
 12/25/23 6:00am 12:00pm 1,3 0 ""
 12/26/23 12:45am 4:10am 3 0 ""
 12/26/23 7:30am 12:40pm 1,3 3 "secondwind:flow[even writing as a hobby feels like work sometimes, where I need to have pomodoros, etc. Use the strategy of pushing through till you get into flow]"
-12/27/23 4:15am 11:10am 3 0 “unintendedwake:9:15am 45”
+12/27/23 4:15am 11:10am 3 0 "unintendedwake:9:15am 45"
